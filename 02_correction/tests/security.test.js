@@ -1,5 +1,5 @@
 const request = require('supertest');
-const app = require('../app'); // adapter le chemin si besoin
+const app = require('../app'); 
 
 describe('Security tests – SecureBank', () => {
 
